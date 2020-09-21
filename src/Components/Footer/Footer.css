@@ -1,0 +1,11 @@
+.footer {
+  display: block;
+  width: 100%;
+}
+.footer-icon {
+  position: fixed;
+
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+}
